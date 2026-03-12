@@ -1,5 +1,5 @@
-# Crawl_DataTFHCM
-Chương trình cào dữ liệu giao thông, phục vụ huấn luyện học sâu tại thành phố Hồ Chí Minh
+# DL_PhanTichGiaoThongTPHCM
+Dự án huấn luyện mô hình học sâu, phục vụ phân tích, dự báo trạng thái giao thông trên một vài khu vực địa bàn TPHCM
 <img width="1335" height="778" alt="image" src="https://github.com/user-attachments/assets/4d83c711-ddb2-4d97-99dd-d746ecf2ba34" />
 <h2>Hướng dẫn gán nhãn dữ liệu</h2>
 <br />
