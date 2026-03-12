@@ -23,3 +23,4 @@ cookies = {
 url = 'https://giaothong.hochiminhcity.gov.vn/Map.aspx'
 resp = requests.get(url, headers=headers, cookies=cookies)
 soup = BeautifulSoup(resp.text, 'html.parser')
+print(soup)
