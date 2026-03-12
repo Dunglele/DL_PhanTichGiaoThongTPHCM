@@ -28,4 +28,4 @@ Dự án huấn luyện mô hình học sâu, phục vụ phân tích, dự báo
 <h3>Bước 6: Nhấn W để tiến hành vẽ box gán nhãn, D để tới ảnh tiếp theo, A để quay lại ảnh trước.</h3>
 <img width="2315" height="1384" alt="image" src="https://github.com/user-attachments/assets/378ae95c-6d58-497f-97e5-82b4a75428fd" />
 <hr />
-# Nhớ Push Commit sau khi gán nhãn xong
+<h1>Nhớ Push Commit sau khi gán nhãn xong</h1> 
