@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2026-03-10</folder>
+	<filename>3 Thang 2 - Thanh Thai_15H25.jpg</filename>
+	<path>C:\Users\DELL XEON\Music\Deep_Learning\Crawl_DataTFHCM\Crawl_DataTFHCM\traffic_data\2026-03-10\3 Thang 2 - Thanh Thai_15H25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>646</width>
+		<height>486</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>441</xmin>
+			<ymin>267</ymin>
+			<xmax>482</xmax>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>
